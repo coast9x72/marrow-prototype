@@ -1,0 +1,271 @@
+{"t":26,"kind":"pointer","x":0.4681,"y":0.4907}
+{"t":187,"kind":"click","x":0.4681,"y":0.4907,"button":"left"}
+{"t":938,"kind":"text","insert":" the","via":"dictation"}
+{"t":2514,"kind":"correct","deleted":2,"insert":"ths","via":"dictation"}
+{"t":2533,"kind":"pointer","x":0.4829,"y":0.4697}
+{"t":2552,"kind":"pointer","x":0.4854,"y":0.5153}
+{"t":2568,"kind":"pointer","x":0.506,"y":0.5708}
+{"t":2593,"kind":"pointer","x":0.4906,"y":0.6007}
+{"t":2613,"kind":"pointer","x":0.5597,"y":0.5358}
+{"t":2628,"kind":"pointer","x":0.5192,"y":0.5895}
+{"t":2902,"kind":"text","insert":" report","via":"dictation"}
+{"t":3258,"kind":"correct","deleted":5,"insert":"repors","via":"dictation"}
+{"t":3281,"kind":"pointer","x":0.4598,"y":0.6421}
+{"t":3312,"kind":"pointer","x":0.5177,"y":0.6658}
+{"t":3322,"kind":"pointer","x":0.4842,"y":0.5949}
+{"t":3404,"kind":"click","x":0.4842,"y":0.5949,"button":"left"}
+{"t":3443,"kind":"pointer","x":0.4424,"y":0.5711}
+{"t":3456,"kind":"pointer","x":0.3862,"y":0.5333}
+{"t":3460,"kind":"pointer","x":0.4759,"y":0.4987}
+{"t":4684,"kind":"text","insert":" is","via":"dictation"}
+{"t":4724,"kind":"correct","deleted":1,"insert":"is","via":"dictation"}
+{"t":4736,"kind":"pointer","x":0.505,"y":0.4447}
+{"t":4769,"kind":"pointer","x":0.4656,"y":0.511}
+{"t":4790,"kind":"pointer","x":0.4698,"y":0.5285}
+{"t":4808,"kind":"pointer","x":0.4152,"y":0.5145}
+{"t":4829,"kind":"pointer","x":0.4155,"y":0.5023}
+{"t":4845,"kind":"pointer","x":0.362,"y":0.4562}
+{"t":4955,"kind":"click","x":0.362,"y":0.4562,"button":"left"}
+{"t":5783,"kind":"text","insert":" ready","via":"dictation"}
+{"t":5806,"kind":"pointer","x":0.3311,"y":0.46}
+{"t":5834,"kind":"pointer","x":0.3621,"y":0.477}
+{"t":5855,"kind":"pointer","x":0.4501,"y":0.5061}
+{"t":5879,"kind":"pointer","x":0.4376,"y":0.4612}
+{"t":5903,"kind":"pointer","x":0.3848,"y":0.4197}
+{"t":5907,"kind":"pointer","x":0.4725,"y":0.3969}
+{"t":7100,"kind":"text","insert":" for","via":"dictation"}
+{"t":8440,"kind":"correct","deleted":2,"insert":"fos","via":"dictation"}
+{"t":8468,"kind":"pointer","x":0.5084,"y":0.3875}
+{"t":8478,"kind":"pointer","x":0.5577,"y":0.3491}
+{"t":8500,"kind":"pointer","x":0.5088,"y":0.4154}
+{"t":8624,"kind":"click","x":0.5088,"y":0.4154,"button":"left"}
+{"t":8654,"kind":"pointer","x":0.5454,"y":0.3915}
+{"t":8666,"kind":"pointer","x":0.5343,"y":0.3671}
+{"t":8685,"kind":"pointer","x":0.5447,"y":0.3196}
+{"t":9543,"kind":"text","insert":" review","via":"dictation"}
+{"t":9631,"kind":"correct","deleted":5,"insert":"revies","via":"dictation"}
+{"t":9658,"kind":"pointer","x":0.5971,"y":0.4237}
+{"t":9671,"kind":"pointer","x":0.6479,"y":0.4742}
+{"t":9684,"kind":"pointer","x":0.6603,"y":0.4455}
+{"t":9700,"kind":"pointer","x":0.6539,"y":0.4362}
+{"t":9711,"kind":"pointer","x":0.6296,"y":0.3773}
+{"t":9735,"kind":"pointer","x":0.6367,"y":0.4322}
+{"t":9799,"kind":"click","x":0.6367,"y":0.4322,"button":"left"}
+{"t":10940,"kind":"text","insert":" and","via":"dictation"}
+{"t":10960,"kind":"pointer","x":0.5625,"y":0.4284}
+{"t":10997,"kind":"pointer","x":0.4916,"y":0.428}
+{"t":11018,"kind":"pointer","x":0.4299,"y":0.4624}
+{"t":11049,"kind":"pointer","x":0.4591,"y":0.4999}
+{"t":11074,"kind":"pointer","x":0.4855,"y":0.5172}
+{"t":11090,"kind":"pointer","x":0.4914,"y":0.5398}
+{"t":12300,"kind":"text","insert":" the","via":"dictation"}
+{"t":13104,"kind":"correct","deleted":2,"insert":"ths","via":"dictation"}
+{"t":13108,"kind":"pointer","x":0.454,"y":0.5595}
+{"t":13124,"kind":"pointer","x":0.4182,"y":0.5033}
+{"t":13142,"kind":"pointer","x":0.4132,"y":0.5632}
+{"t":13161,"kind":"click","x":0.4132,"y":0.5632,"button":"left"}
+{"t":13177,"kind":"pointer","x":0.4853,"y":0.5634}
+{"t":13191,"kind":"pointer","x":0.4731,"y":0.4843}
+{"t":13213,"kind":"pointer","x":0.54,"y":0.4712}
+{"t":14262,"kind":"text","insert":" numbers","via":"dictation"}
+{"t":14266,"kind":"pointer","x":0.4999,"y":0.4958}
+{"t":14292,"kind":"pointer","x":0.5035,"y":0.5092}
+{"t":14328,"kind":"pointer","x":0.5215,"y":0.4892}
+{"t":14351,"kind":"pointer","x":0.5732,"y":0.5238}
+{"t":14377,"kind":"pointer","x":0.5082,"y":0.5018}
+{"t":14381,"kind":"pointer","x":0.5742,"y":0.4609}
+{"t":14467,"kind":"click","x":0.5742,"y":0.4609,"button":"left"}
+{"t":15440,"kind":"text","insert":" look","via":"dictation"}
+{"t":15451,"kind":"pointer","x":0.5963,"y":0.4415}
+{"t":15458,"kind":"pointer","x":0.5862,"y":0.4509}
+{"t":15485,"kind":"pointer","x":0.6034,"y":0.4308}
+{"t":15501,"kind":"pointer","x":0.6289,"y":0.4541}
+{"t":15522,"kind":"pointer","x":0.6397,"y":0.4957}
+{"t":15537,"kind":"pointer","x":0.6056,"y":0.4401}
+{"t":16230,"kind":"text","insert":" right","via":"dictation"}
+{"t":16241,"kind":"pointer","x":0.5289,"y":0.4519}
+{"t":16267,"kind":"pointer","x":0.557,"y":0.5222}
+{"t":16281,"kind":"pointer","x":0.4842,"y":0.459}
+{"t":16384,"kind":"click","x":0.4842,"y":0.459,"button":"left"}
+{"t":16411,"kind":"pointer","x":0.5448,"y":0.3965}
+{"t":16429,"kind":"pointer","x":0.5711,"y":0.3839}
+{"t":16457,"kind":"pointer","x":0.5261,"y":0.438}
+{"t":17291,"kind":"text","insert":" the","via":"dictation"}
+{"t":18776,"kind":"correct","deleted":2,"insert":"ths","via":"dictation"}
+{"t":18787,"kind":"pointer","x":0.4681,"y":0.3962}
+{"t":18813,"kind":"pointer","x":0.4163,"y":0.4079}
+{"t":18828,"kind":"pointer","x":0.4835,"y":0.453}
+{"t":18849,"kind":"pointer","x":0.4376,"y":0.4572}
+{"t":18865,"kind":"pointer","x":0.3973,"y":0.4652}
+{"t":18870,"kind":"pointer","x":0.4371,"y":0.4147}
+{"t":19066,"kind":"click","x":0.4371,"y":0.4147,"button":"left"}
+{"t":20606,"kind":"text","insert":" report","via":"dictation"}
+{"t":20612,"kind":"pointer","x":0.4769,"y":0.4673}
+{"t":20634,"kind":"pointer","x":0.4275,"y":0.4458}
+{"t":20661,"kind":"pointer","x":0.4639,"y":0.3955}
+{"t":20668,"kind":"pointer","x":0.4799,"y":0.4356}
+{"t":20683,"kind":"pointer","x":0.464,"y":0.3804}
+{"t":20687,"kind":"pointer","x":0.4683,"y":0.3885}
+{"t":21752,"kind":"text","insert":" is","via":"dictation"}
+{"t":21774,"kind":"pointer","x":0.4323,"y":0.3708}
+{"t":21784,"kind":"pointer","x":0.4878,"y":0.4377}
+{"t":21813,"kind":"pointer","x":0.448,"y":0.4961}
+{"t":21961,"kind":"click","x":0.448,"y":0.4961,"button":"left"}
+{"t":21970,"kind":"pointer","x":0.5153,"y":0.5312}
+{"t":22002,"kind":"pointer","x":0.4796,"y":0.5215}
+{"t":22014,"kind":"pointer","x":0.5536,"y":0.4524}
+{"t":22501,"kind":"text","insert":" ready","via":"dictation"}
+{"t":22508,"kind":"pointer","x":0.5107,"y":0.4272}
+{"t":22538,"kind":"pointer","x":0.5456,"y":0.4647}
+{"t":22552,"kind":"pointer","x":0.534,"y":0.4119}
+{"t":22573,"kind":"pointer","x":0.4849,"y":0.443}
+{"t":22595,"kind":"pointer","x":0.4687,"y":0.4966}
+{"t":22630,"kind":"pointer","x":0.4307,"y":0.4925}
+{"t":22787,"kind":"click","x":0.4307,"y":0.4925,"button":"left"}
+{"t":24013,"kind":"text","insert":" for","via":"dictation"}
+{"t":24490,"kind":"correct","deleted":2,"insert":"fos","via":"dictation"}
+{"t":24509,"kind":"pointer","x":0.4914,"y":0.5355}
+{"t":24532,"kind":"pointer","x":0.4553,"y":0.5755}
+{"t":24543,"kind":"pointer","x":0.4252,"y":0.6111}
+{"t":24554,"kind":"pointer","x":0.4759,"y":0.5489}
+{"t":24558,"kind":"pointer","x":0.423,"y":0.5422}
+{"t":24563,"kind":"pointer","x":0.4646,"y":0.5893}
+{"t":25502,"kind":"text","insert":" review","via":"dictation"}
+{"t":25518,"kind":"pointer","x":0.4947,"y":0.5594}
+{"t":25555,"kind":"pointer","x":0.5295,"y":0.4917}
+{"t":25577,"kind":"pointer","x":0.5746,"y":0.4638}
+{"t":25703,"kind":"click","x":0.5746,"y":0.4638,"button":"left"}
+{"t":25708,"kind":"pointer","x":0.5976,"y":0.4379}
+{"t":25725,"kind":"pointer","x":0.5529,"y":0.4932}
+{"t":25755,"kind":"pointer","x":0.5767,"y":0.5147}
+{"t":26907,"kind":"text","insert":" and","via":"dictation"}
+{"t":26937,"kind":"pointer","x":0.4935,"y":0.4722}
+{"t":26964,"kind":"pointer","x":0.5341,"y":0.4486}
+{"t":26994,"kind":"pointer","x":0.5046,"y":0.4114}
+{"t":27013,"kind":"pointer","x":0.544,"y":0.3889}
+{"t":27045,"kind":"pointer","x":0.4801,"y":0.395}
+{"t":27050,"kind":"pointer","x":0.4636,"y":0.4271}
+{"t":27136,"kind":"click","x":0.4636,"y":0.4271,"button":"left"}
+{"t":27801,"kind":"text","insert":" the","via":"dictation"}
+{"t":27816,"kind":"pointer","x":0.4885,"y":0.3792}
+{"t":27820,"kind":"pointer","x":0.5092,"y":0.4047}
+{"t":27826,"kind":"pointer","x":0.5272,"y":0.4418}
+{"t":27839,"kind":"pointer","x":0.4624,"y":0.5142}
+{"t":27855,"kind":"pointer","x":0.4678,"y":0.4942}
+{"t":27864,"kind":"pointer","x":0.5106,"y":0.5009}
+{"t":29173,"kind":"text","insert":" numbers","via":"dictation"}
+{"t":30087,"kind":"correct","deleted":6,"insert":"numbers","via":"dictation"}
+{"t":30100,"kind":"pointer","x":0.4858,"y":0.5107}
+{"t":30139,"kind":"pointer","x":0.5238,"y":0.5692}
+{"t":30145,"kind":"pointer","x":0.5494,"y":0.6048}
+{"t":30155,"kind":"click","x":0.5494,"y":0.6048,"button":"left"}
+{"t":30171,"kind":"pointer","x":0.5443,"y":0.6454}
+{"t":30194,"kind":"pointer","x":0.5225,"y":0.5854}
+{"t":30205,"kind":"pointer","x":0.4615,"y":0.5071}
+{"t":31266,"kind":"text","insert":" look","via":"dictation"}
+{"t":31280,"kind":"pointer","x":0.4374,"y":0.4926}
+{"t":31302,"kind":"pointer","x":0.4944,"y":0.4905}
+{"t":31311,"kind":"pointer","x":0.5369,"y":0.4286}
+{"t":31338,"kind":"pointer","x":0.5834,"y":0.5009}
+{"t":31360,"kind":"pointer","x":0.588,"y":0.468}
+{"t":31382,"kind":"pointer","x":0.5825,"y":0.4074}
+{"t":31526,"kind":"click","x":0.5825,"y":0.4074,"button":"left"}
+{"t":33003,"kind":"text","insert":" right","via":"dictation"}
+{"t":33032,"kind":"pointer","x":0.5923,"y":0.48}
+{"t":33068,"kind":"pointer","x":0.5726,"y":0.5555}
+{"t":33073,"kind":"pointer","x":0.6029,"y":0.5711}
+{"t":33099,"kind":"pointer","x":0.6001,"y":0.562}
+{"t":33135,"kind":"pointer","x":0.562,"y":0.5299}
+{"t":33173,"kind":"pointer","x":0.4805,"y":0.498}
+{"t":33810,"kind":"text","insert":" the","via":"dictation"}
+{"t":33821,"kind":"pointer","x":0.5341,"y":0.5627}
+{"t":33852,"kind":"pointer","x":0.5329,"y":0.5819}
+{"t":33867,"kind":"pointer","x":0.5505,"y":0.5476}
+{"t":33999,"kind":"click","x":0.5505,"y":0.5476,"button":"left"}
+{"t":34024,"kind":"pointer","x":0.556,"y":0.5912}
+{"t":34032,"kind":"pointer","x":0.5545,"y":0.6269}
+{"t":34054,"kind":"pointer","x":0.5381,"y":0.6086}
+{"t":35264,"kind":"text","insert":" report","via":"dictation"}
+{"t":35284,"kind":"pointer","x":0.5511,"y":0.6353}
+{"t":35304,"kind":"pointer","x":0.515,"y":0.5687}
+{"t":35324,"kind":"pointer","x":0.5263,"y":0.6019}
+{"t":35338,"kind":"pointer","x":0.5248,"y":0.5536}
+{"t":35360,"kind":"pointer","x":0.5119,"y":0.5107}
+{"t":35397,"kind":"pointer","x":0.4978,"y":0.4579}
+{"t":35491,"kind":"click","x":0.4978,"y":0.4579,"button":"left"}
+{"t":36837,"kind":"text","insert":" is","via":"dictation"}
+{"t":37287,"kind":"correct","deleted":1,"insert":"is","via":"dictation"}
+{"t":37294,"kind":"pointer","x":0.5176,"y":0.4084}
+{"t":37341,"kind":"pointer","x":0.4629,"y":0.3926}
+{"t":37359,"kind":"pointer","x":0.4249,"y":0.449}
+{"t":37375,"kind":"pointer","x":0.3829,"y":0.5202}
+{"t":37387,"kind":"pointer","x":0.3494,"y":0.5214}
+{"t":37412,"kind":"pointer","x":0.4504,"y":0.4938}
+{"t":38211,"kind":"text","insert":" ready","via":"dictation"}
+{"t":38218,"kind":"pointer","x":0.4017,"y":0.4353}
+{"t":38234,"kind":"pointer","x":0.4042,"y":0.4946}
+{"t":38255,"kind":"pointer","x":0.4112,"y":0.4746}
+{"t":38398,"kind":"click","x":0.4112,"y":0.4746,"button":"left"}
+{"t":38416,"kind":"pointer","x":0.4757,"y":0.4699}
+{"t":38430,"kind":"pointer","x":0.4769,"y":0.4297}
+{"t":38441,"kind":"pointer","x":0.4708,"y":0.4651}
+{"t":39844,"kind":"text","insert":" for","via":"dictation"}
+{"t":40339,"kind":"correct","deleted":2,"insert":"fos","via":"dictation"}
+{"t":40361,"kind":"pointer","x":0.4015,"y":0.49}
+{"t":40391,"kind":"pointer","x":0.4559,"y":0.4993}
+{"t":40410,"kind":"pointer","x":0.4078,"y":0.5579}
+{"t":40423,"kind":"pointer","x":0.3589,"y":0.5505}
+{"t":40434,"kind":"pointer","x":0.3909,"y":0.5458}
+{"t":40478,"kind":"pointer","x":0.3579,"y":0.5494}
+{"t":40568,"kind":"click","x":0.3579,"y":0.5494,"button":"left"}
+{"t":41031,"kind":"text","insert":" review","via":"dictation"}
+{"t":41043,"kind":"pointer","x":0.3103,"y":0.6022}
+{"t":41055,"kind":"pointer","x":0.3621,"y":0.5725}
+{"t":41070,"kind":"pointer","x":0.3474,"y":0.534}
+{"t":41083,"kind":"pointer","x":0.4229,"y":0.5486}
+{"t":41107,"kind":"pointer","x":0.4811,"y":0.5723}
+{"t":41113,"kind":"pointer","x":0.4553,"y":0.51}
+{"t":41592,"kind":"text","insert":" and","via":"dictation"}
+{"t":41621,"kind":"pointer","x":0.4594,"y":0.4729}
+{"t":41625,"kind":"pointer","x":0.4531,"y":0.3982}
+{"t":41629,"kind":"pointer","x":0.4593,"y":0.3627}
+{"t":41724,"kind":"click","x":0.4593,"y":0.3627,"button":"left"}
+{"t":41750,"kind":"pointer","x":0.4173,"y":0.386}
+{"t":41775,"kind":"pointer","x":0.4018,"y":0.4088}
+{"t":41797,"kind":"pointer","x":0.4423,"y":0.3989}
+{"t":42654,"kind":"text","insert":" the","via":"dictation"}
+{"t":43462,"kind":"correct","deleted":2,"insert":"ths","via":"dictation"}
+{"t":43475,"kind":"pointer","x":0.4806,"y":0.3798}
+{"t":43496,"kind":"pointer","x":0.4434,"y":0.3961}
+{"t":43516,"kind":"pointer","x":0.3845,"y":0.3534}
+{"t":43532,"kind":"pointer","x":0.3443,"y":0.4209}
+{"t":43536,"kind":"pointer","x":0.3773,"y":0.4735}
+{"t":43561,"kind":"pointer","x":0.4311,"y":0.516}
+{"t":43631,"kind":"click","x":0.4311,"y":0.516,"button":"left"}
+{"t":44130,"kind":"text","insert":" numbers","via":"dictation"}
+{"t":44161,"kind":"pointer","x":0.3953,"y":0.4537}
+{"t":44178,"kind":"pointer","x":0.364,"y":0.466}
+{"t":44210,"kind":"pointer","x":0.4399,"y":0.4205}
+{"t":44245,"kind":"pointer","x":0.4858,"y":0.4115}
+{"t":44264,"kind":"pointer","x":0.5099,"y":0.3951}
+{"t":44283,"kind":"pointer","x":0.4969,"y":0.4699}
+{"t":44498,"kind":"text","insert":" look","via":"dictation"}
+{"t":45097,"kind":"correct","deleted":3,"insert":"loos","via":"dictation"}
+{"t":45101,"kind":"pointer","x":0.5565,"y":0.4884}
+{"t":45127,"kind":"pointer","x":0.5113,"y":0.4972}
+{"t":45153,"kind":"pointer","x":0.454,"y":0.533}
+{"t":45263,"kind":"click","x":0.454,"y":0.533,"button":"left"}
+{"t":45291,"kind":"pointer","x":0.4699,"y":0.5467}
+{"t":45323,"kind":"pointer","x":0.4512,"y":0.5648}
+{"t":45338,"kind":"pointer","x":0.4811,"y":0.5856}
+{"t":45992,"kind":"text","insert":" right","via":"dictation"}
+{"t":46763,"kind":"correct","deleted":4,"insert":"righs","via":"dictation"}
+{"t":46786,"kind":"pointer","x":0.4546,"y":0.5927}
+{"t":46802,"kind":"pointer","x":0.4381,"y":0.5426}
+{"t":46815,"kind":"pointer","x":0.4217,"y":0.4955}
+{"t":46836,"kind":"pointer","x":0.4094,"y":0.4822}
+{"t":46852,"kind":"pointer","x":0.4383,"y":0.4339}
+{"t":46877,"kind":"pointer","x":0.5254,"y":0.5015}
+{"t":46971,"kind":"click","x":0.5254,"y":0.5015,"button":"left"}
+{"t":47595,"kind":"text","insert":" the","via":"dictation"}
+{"t":47617,"kind":"pointer","x":0.548,"y":0.4446}
